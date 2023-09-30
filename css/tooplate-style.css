@@ -11,15 +11,6 @@ body {
   padding: 8rem 0;
 }
 
- .small-text {
-  color: #5b5b5b;
-  font-size: 14px;
-  font-weight: bold;
-  padding: 8px 16px;
-  border-radius: 50px;
-  letter-spacing: 0.2px;
-}
-
 ul {
   margin: 0;
   padding: 0;
@@ -160,6 +151,7 @@ b, strong {
     opacity: 0;
   }
 }
+/*Nave bar*/
 .navbar {
   position: fixed;
   top: 0;
@@ -260,7 +252,7 @@ b, strong {
   font-weight: normal;
   display: block;
 }
-
+/*DARK MODE*/
 .color-mode {
   font-weight: bold;
   cursor: pointer;
